@@ -1,0 +1,209 @@
+#+title: Du LOGO à Sugarizer
+#+lang: fr
+#+description: Une frise chronologique allant du LOGO à Sugarizer
+
+* Header
+
+Cette frise chronologique montre la filiation d'inspiration entre
+plusieurs idées fortes, du LOGO à http://sugarizer.org.
+
+* Seymour Papert conçoit le LOGO
+  :PROPERTIES:
+  :data-category: Logiciel
+  :icon-color: green
+  :fa-icon: fa-plus
+  :image-src: https://upload.wikimedia.org/wikipedia/commons/2/2c/Remi_turtlegrafik.png
+  :image-caption: Exemple de résultat d'un programme en Logo
+  :date: <1967-01-01 dim.>
+  :END:
+
+#+BEGIN_QUOTE
+En tant que langage informatique proprement dit, Logo a été créé chez
+Bolt Beranek et Newman (BBN). Le concept initial émergea d’intenses
+discussions en 1966 entre Seymour Papert, Dan Bobrow et Wallace
+Feurzeig (en). Papert conçut les spécificités fonctionnelles
+essentielles du nouveau langage et Bobrow contribua à son concept et
+en réalisa sa première implémentation. Par la suite, contribuèrent
+également à son développement Richard Grant, Cynthia Solomon, Frank
+Frazier et Paul Wexelblat.
+#+END_QUOTE
+
+Source : https://fr.wikipedia.org/wiki/Logo_(langage)
+
+* Alan Kay présente le concept de Dynabook
+  :PROPERTIES:
+  :data-category: Logiciel
+  :icon-color: green
+  :fa-icon: fa-plus
+  :image-src: https://upload.wikimedia.org/wikipedia/commons/2/2c/Alan_Kay_and_the_prototype_of_Dynabook%2C_pt._5_%283010032738%29.jpg
+  :image-caption: Alan Kay tenant un prototype du Dynabook
+  :date: <1972-01-01 sam.>
+  :END:
+
+#+BEGIN_QUOTE
+Le Dynabook est un projet d'ordinateur portable à usage créatif pour
+enfants, conduit au PARC de Xerox en 1972, par Alan Kay. Ce projet a
+été notamment inspiré par les travaux de Seymour Papert sur le langage
+LOGO, élaboré au Massachusetts Institute of Technology.
+#+END_QUOTE
+
+Source : https://fr.wikipedia.org/wiki/Dynabook
+
+* Invention de Smalltalk
+  :PROPERTIES:
+  :data-category: Langage
+  :icon-color: green
+  :fa-icon: fa-plus
+  :image-src: 
+  :image-caption: 
+  :date: <1972-01-01 sam.>
+  :END:
+
+#+BEGIN_QUOTE
+Smalltalk est un langage de programmation orienté objet, réflexif et
+dynamiquement typé. Il fut l'un des premiers langages de programmation
+à disposer d'un environnement de développement intégré complètement
+graphique. Il a été créé en 1972. Il est inspiré par les langages Lisp
+et Simula. Il a été conçu par Alan Kay, Dan Ingals, Ted Kaehler, Adele
+Goldberg au Palo Alto Research Center de Xerox.
+#+END_QUOTE
+
+Source : https://fr.wikipedia.org/wiki/Smalltalk
+
+* Naissance du Media Lab au MIT
+  :PROPERTIES:
+  :data-category: Institution
+  :icon-color: green
+  :fa-icon: fa-plus
+  :image-src: 
+  :image-caption:
+  :date: <1985-01-01 mar.>
+  :END:
+
+* Langage Squeak, dialecte de Smalltalk
+  :PROPERTIES:
+  :data-category: Langage
+  :icon-color: green
+  :fa-icon: fa-plus
+  :image-src: 
+  :image-caption:
+  :date: <1996-01-01 mar.>
+  :END:
+
+Source : https://en.wikipedia.org/wiki/Squeak
+
+* Environnement Etoys
+  :PROPERTIES:
+  :data-category: Environnement
+  :icon-color: green
+  :fa-icon: fa-plus
+  :image-src: 
+  :image-caption:
+  :date: <1996-01-01 mar.>
+  :END:
+
+#+BEGIN_QUOTE
+Etoys is a media-rich authoring environment with a scripted object model for many different objects that runs on different platforms and is free and open source.
+#+END_QUOTE
+
+Source : https://en.wikipedia.org/wiki/Etoys_(programming_language)
+
+* One Laptop per Child
+  :PROPERTIES:
+  :data-category: Institution
+  :icon-color: green
+  :fa-icon: fa-plus
+  :image-src: 
+  :image-caption:
+  :date: <2005-01-01 sam.>
+  :END:
+
+#+BEGIN_QUOTE
+One Laptop per Child (« un portable par enfant ») est une association
+à but non lucratif établie en 2005 dans le Delaware aux États-Unis qui
+a pour but de promouvoir « l'ordinateur portable à 100 dollars » XO
+développé au départ par des membres du corps enseignant du Media Lab,
+un département du Massachusetts Institute of Technology (MIT).
+#+END_QUOTE
+
+Source : https://fr.wikipedia.org/wiki/One_Laptop_per_Child
+
+* Scratch
+  :PROPERTIES:
+  :data-category: Langage
+  :icon-color: green
+  :fa-icon: fa-plus
+  :image-src: 
+  :image-caption:
+  :date: <2006-01-01 dim.>
+  :END:
+
+#+BEGIN_QUOTE
+Scratch est une implémentation visuelle et dynamique du langage de
+programmation Smalltalk fondée sur Squeak.
+
+Cette plateforme d'apprentissage de codage comporte de plus de 14,5
+millions de projets partagés allant de l'animation à la simulation
+3D. Le nombre d'utilisateurs enregistrés est de 12 millions et ne
+cesse d'augmenter.
+#+END_QUOTE
+
+Source : https://en.wikipedia.org/wiki/Etoys_(programming_language)
+
+* Sugar (software)
+  :PROPERTIES:
+  :data-category: Environnement
+  :icon-color: green
+  :fa-icon: fa-plus
+  :image-src: 
+  :image-caption:
+  :date: <2007-01-01 lun.>
+  :END:
+
+#+BEGIN_QUOTE
+Sugar is a free and open source computer desktop environment designed
+for interactive learning by children. Copyright by SugarLabs.[2][4]
+Developed as part of the One Laptop per Child (OLPC) project, Sugar
+was the default interface on OLPC XO-1 laptop computers. The OLPC
+XO-1.5 and later provided the option of either the Gnome or Sugar
+interfaces.[5]
+#+END_QUOTE
+
+Source : https://en.wikipedia.org/wiki/Sugar_(software)
+
+* Création d'OLPC France
+  :PROPERTIES:
+  :data-category: Institution
+  :icon-color: green
+  :fa-icon: fa-plus
+  :image-src: 
+  :image-caption:
+  :date: <2008-06-30 lun.>
+  :END:
+
+#+BEGIN_QUOTE
+L’association OLPC France a pour objet de diffuser l’esprit du projet OLPC en France. OLPC France n’est pas la représentation « officielle » de la fondation en France mais un regroupement de volontaires passionnés du projet. Plus d’information sur l’organisation OLPC dans le monde ici.
+#+END_QUOTE
+
+Source : https://olpc-france.org/blog/mission-contact/
+
+* Lancement de Sugarizer
+  :PROPERTIES:
+  :data-category: Environnement
+  :icon-color: green
+  :fa-icon: fa-plus
+  :image-src: 
+  :image-caption:
+  :date: <2013-01-01 mar.>
+  :END:
+
+#+BEGIN_QUOTE
+Avec Sugarizer, vous pouvez découvrir la plate-forme pédagogique Sugar
+sur n'importe quelle machine.
+#+END_QUOTE
+
+Source : http://sugarizer.org
+
+* Footer
+
+Vous pouvez contribuer à cette frise chronologique en [[https://github.com/bzg/du-logo-a-sugarizer/][éditant le code]].
