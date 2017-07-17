@@ -8,7 +8,7 @@ Cette frise est publiée [sur le site d'OLPC France](https://olpc-france.org/du-
 # Contribuer
 
 Vous pouvez contribuer en envoyant une `pull request` ou des
-commentaires par email à [Bastien](mailto:contact@olpc-france.org).
+commentaires par email à [OLPC France](mailto:contact@olpc-france.org).
 
 # Droits d'auteur
 
